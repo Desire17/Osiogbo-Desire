@@ -1,0 +1,16 @@
+ A for loop is used for iterating over a sequence(that is either a list, a tuple, a dictionary, a set, or a string)
+
+2.The while loop is use to iterate over a block of code as long as the test expression(condition) is true. We generally use this loop when we don't know the number of times to iterate beforehand
+
+3.List is mutable, whereas a Tuple is immutable
+  The two data structures are both sequence data types that store collections of items
+
+4.Relational database is a digital database based on the relational model of data, as proposed by E.F.codd in 1970.A system used to maintain relational databases is a relational database management system.
+
+5.We have 7 types of operators in python
+
+6.Data variables(a.k.a attributes or fields)
+ .constructors.
+ .merhods.accomplish tasks for which the class is responsible. can be private or public.
+ 
+7. Python input function which lets you ask a user for some text input.You can call this function to tell the program to stop and wait for the user to key in the data.
